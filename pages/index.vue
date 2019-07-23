@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        {{title}}
+        Netlify Lecture
       </h1>
       <router-link to="about">hogehoge</router-link>
     </div>
