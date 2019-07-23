@@ -1,5 +1,7 @@
 # hogehogehoge
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/af452eef-3019-43bd-9fce-168a9f77b0a2/deploy-status)](https://app.netlify.com/sites/netlify-lecture/deploys)
+
 > My praiseworthy Nuxt.js project
 
 ## Build Setup
