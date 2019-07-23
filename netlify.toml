@@ -1,6 +1,7 @@
 [build]
   publish = "dist"
   command = "npm run generate"
+  functions = "lambda"
 [build.environment]
   API_URL = "https://jtb-edic-api-stg.herokuapp.com/"
 # Production context: All deploys to the main
